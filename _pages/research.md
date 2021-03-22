@@ -12,11 +12,11 @@ author_profile: true
 * [**"Persistent Current Account Imbalances: Are they Good or Bad for Regional and Global Growth?"**](https://www.sciencedirect.com/science/article/pii/S0261560621000383?via%3Dihub), with John
 Beirne and Ulrich Volz.  
   * Published in **Journal of International Money and Finance**, forthcoming.
-  * [**ADBI Working Paper Series**](https://www.adb.org/publications/persistent-current-account-imbalances-good-or-bad-regional-global-growth)**
+  * [**ADBI Working Paper Series](https://www.adb.org/publications/persistent-current-account-imbalances-good-or-bad-regional-global-growth)**
 * **“Bracing for the Typhoon: Climate Change and Sovereign Risk in Southeast Asia”**, with John
 Beirne and Ulrich Volz.  
   * Published in **Sustainable Development**, forthcoming.
-  * [**ADBI Working Paper Series**](https://www.adb.org/publications/bracing-typhoon-climate-change-sovereign-risk-southeast-asia)**
+  * [**ADBI Working Paper Series](https://www.adb.org/publications/bracing-typhoon-climate-change-sovereign-risk-southeast-asia)**
 * [**"Can Financial Inclusion Be an Effective Mitigation Measure? Evidence from Panel Data Analysis of the Environmental Kuznets Curve"**](https://www.sciencedirect.com/science/article/pii/S1544612319314849?dgcid=rss_sd_all), with Yong Jun Baek.  
   * Published in **Finance Research Letters**, 2020, Vol.37, 101725.
 * [**"Illustrating Spillover Effects of Infrastructure"**](https://www.adb.org/publications/high-speed-rail-services-asia), with Naoyuki Yoshino and Umid Abidhadjaev.  
@@ -36,7 +36,7 @@ Beirne and Ulrich Volz.
 ## Book Chapters
 * [**“How High-Speed Rail Affects Local Land Prices: Evidence from Taipei, China”**](https://www.adb.org/publications/handbook-high-speed-rail-quality-life).  In edited volume **Handbook on High-Speed Rail and Quality of Life**, Yoshitsugu Hayashi, KE Seetha Ram, and Shreyas Bharule (ed.), Asian
 Development Bank Institute, pp.74-95, 2020.
-  * [**ADBI Working Paper Series**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3286235)**
+  * [**ADBI Working Paper Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3286235)**
 * [**“Quantifying the Economic Spillover Effect for Citywide Fecal Sludge Management Programs”**](https://www.adb.org/publications/water-insecurity-and-sanitation-asia), with David Robbins and KE Seetha Ram. In edited volume **Water Insecurity and Sanitation in Asia**, Naoyuki Yoshino, Eduardo Araral, and KE Seetha Ram (ed.), Asian Development Bank Institute, pp.47-67, 2019.
 
 ## Report
