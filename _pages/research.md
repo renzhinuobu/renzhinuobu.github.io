@@ -31,7 +31,7 @@ Beirne and Ulrich Volz.
   * **ADBI Working Paper Series**, No.1160, June 2020.
 * [**“Financial Market and Capital Flow Dynamics During the COVID-19 Pandemic”**](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic), with John Beirne, Eric Sugandi, and Ulrich Volz.  
   * **ADBI Working Paper Series**, No.1158, June 2020.
-* ["House Prices, Inflation, and Unconventional Monetary Policy”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174289)
+* [**"House Prices, Inflation, and Unconventional Monetary Policy”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174289)
 
 ## Book Chapters
 * [**“How High-Speed Rail Affects Local Land Prices: Evidence from Taipei, China”**](https://www.adb.org/publications/handbook-high-speed-rail-quality-life).  In edited volume **Handbook on High-Speed Rail and Quality of Life**, Yoshitsugu Hayashi, KE Seetha Ram, and Shreyas Bharule (ed.), Asian
