@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+
+---
+
 ## Publications and Accepeted Papers
 * ["Persistent Current Account Imbalances: Are they Good or Bad for Regional and Global Growth?"](https://www.sciencedirect.com/science/article/pii/S0261560621000383?via%3Dihub), with John
 Beirne and Ulrich Volz.  
