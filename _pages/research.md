@@ -34,10 +34,12 @@ Beirne and Ulrich Volz.
 * [**"House Prices, Inflation, and Unconventional Monetary Policy”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174289)
 
 ## Book Chapters
-* [**“How High-Speed Rail Affects Local Land Prices: Evidence from Taipei, China”**](https://www.adb.org/publications/handbook-high-speed-rail-quality-life).  In edited volume **Handbook on High-Speed Rail and Quality of Life**, Yoshitsugu Hayashi, KE Seetha Ram, and Shreyas Bharule (ed.), Asian
+* [**“How High-Speed Rail Affects Local Land Prices: Evidence from Taipei, China”**](https://www.adb.org/publications/handbook-high-speed-rail-quality-life).  
+  * Published in edited volume **Handbook on High-Speed Rail and Quality of Life**, Yoshitsugu Hayashi, KE Seetha Ram, and Shreyas Bharule (ed.), Asian
 Development Bank Institute, pp.74-95, 2020.
   * [**ADBI Working Paper Series**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3286235)
-* [**“Quantifying the Economic Spillover Effect for Citywide Fecal Sludge Management Programs”**](https://www.adb.org/publications/water-insecurity-and-sanitation-asia), with David Robbins and KE Seetha Ram. In edited volume **Water Insecurity and Sanitation in Asia**, Naoyuki Yoshino, Eduardo Araral, and KE Seetha Ram (ed.), Asian Development Bank Institute, pp.47-67, 2019.
+* [**“Quantifying the Economic Spillover Effect for Citywide Fecal Sludge Management Programs”**](https://www.adb.org/publications/water-insecurity-and-sanitation-asia), with David Robbins and KE Seetha Ram. 
+  * Published in edited volume **Water Insecurity and Sanitation in Asia**, Naoyuki Yoshino, Eduardo Araral, and KE Seetha Ram (ed.), Asian Development Bank Institute, pp.47-67, 2019.
 
 ## Report
 * [**"Climate Change and Sovereign Risk"**](https://doi.org/10.25501/SOAS.00033524), with Ulrich Volz, John Beirne, Natalie Ambrosio Preudhomme, Adrian Fenton, Emilie Mazzacurati, and Jeanne Stampe. 2020.
