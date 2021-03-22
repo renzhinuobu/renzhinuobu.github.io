@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nuobu Renzhi"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Nuobu Renzhi"
 description              : &description "personal description"
