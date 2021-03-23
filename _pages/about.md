@@ -14,8 +14,8 @@ My research interests include macroeconomics, macro-finance, household finance, 
 
 ## Contact
 
-* Email (ADBI): [nrenzhi@adbi.org](nrenzhi@adbi.org) 
-* Email (Permanent): [renzhinuobu@gmail.com](renzhinuobu@gmail.com)
+* Email (ADBI): nrenzhi@adbi.org 
+* Email (Permanent): renzhinuobu@gmail.com
 
 ## CV
 
