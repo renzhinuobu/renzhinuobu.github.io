@@ -19,5 +19,5 @@ My research interests include macroeconomics, macro-finance, household finance, 
 
 ## CV
 
-You can find my cv from [here](https://www.dropbox.com/s/uys6xyx7016w5pi/renzhi_cv.pdf?dl=0).
+You can find my cv [here](https://www.dropbox.com/s/uys6xyx7016w5pi/renzhi_cv.pdf?dl=0).
 
