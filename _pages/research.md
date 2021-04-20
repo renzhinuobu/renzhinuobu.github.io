@@ -9,6 +9,9 @@ author_profile: true
 {% include base_path %}
 
 ## Publications and Accepeted Papers
+* **“Local currency bond markets, foreign investor participation and capital flow volatility in emerging Asia”**, with John
+Beirne and Ulrich Volz.  
+  * Published in ***Singapore Economic Review***, forthcoming.
 * [**"Persistent Current Account Imbalances: Are they Good or Bad for Regional and Global Growth?"**](https://www.sciencedirect.com/science/article/pii/S0261560621000383?via%3Dihub), with John
 Beirne and Ulrich Volz.  
   * Published in ***Journal of International Money and Finance***, forthcoming.
@@ -26,7 +29,6 @@ Beirne and Ulrich Volz.
 * **“Household Balance Sheets and Unconventional Monetary Policy Transmission”**
 * **“Housing Wealth, Mortgages, and Self Employment Transitions: Evidence from China”**
 * [**"Is there a role for house prices in the unconventional monetary policy transmission mechanism in Japan?”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3378055)
-* **"Local currency bond markets, foreign investor participation and capital flow volatility in Asia”**, with John Beirne and Ulrich Volz.
 * [**“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**](https://www.adb.org/publications/feeling-heat-climate-risks-cost-sovereign-borrowing), with John Beirne and Ulrich Volz.  
   * ***ADBI Working Paper Series***, No.1160, June 2020.
 * [**“Financial Market and Capital Flow Dynamics During the COVID-19 Pandemic”**](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic), with John Beirne, Eric Sugandi, and Ulrich Volz.  
