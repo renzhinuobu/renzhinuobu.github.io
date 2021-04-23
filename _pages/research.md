@@ -12,6 +12,7 @@ author_profile: true
 * **“Local currency bond markets, foreign investor participation and capital flow volatility in emerging Asia”**, with John
 Beirne and Ulrich Volz.  
   * Published in ***Singapore Economic Review***, forthcoming.
+  * [***ADBI Working Paper Series***](https://www.adb.org/publications/local-currency-bond-markets-foreign-investor-capital-flow-volatility-asia)
 * [**"Persistent Current Account Imbalances: Are they Good or Bad for Regional and Global Growth?"**](https://www.sciencedirect.com/science/article/pii/S0261560621000383?via%3Dihub), with John
 Beirne and Ulrich Volz.  
   * Published in ***Journal of International Money and Finance***, forthcoming.
