@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 ## Publications and Accepeted Papers
-* **“Local currency bond markets, foreign investor participation and capital flow volatility in emerging Asia”**, with John
+* **“Local Currency Bond Markets, Foreign Investor Participation and Capital Flow Volatility in Emerging Asia”**, with John
 Beirne and Ulrich Volz.  
   * Published in ***Singapore Economic Review***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/local-currency-bond-markets-foreign-investor-capital-flow-volatility-asia)
