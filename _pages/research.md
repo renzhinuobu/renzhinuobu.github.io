@@ -13,14 +13,14 @@ author_profile: true
 Beirne and Ulrich Volz.  
   * Published in ***Singapore Economic Review***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/local-currency-bond-markets-foreign-investor-capital-flow-volatility-asia)
-* [**“Bracing for the Typhoon: Climate Change and Sovereign Risk in Southeast Asia”**](https://onlinelibrary.wiley.com/doi/full/10.1002/sd.2199), with John
-Beirne and Ulrich Volz.  
-  * Published in ***Sustainable Development***, forthcoming.
-  * [***ADBI Working Paper Series***](https://www.adb.org/publications/bracing-typhoon-climate-change-sovereign-risk-southeast-asia)
 * [**"Persistent Current Account Imbalances: Are they Good or Bad for Regional and Global Growth?"**](https://www.sciencedirect.com/science/article/pii/S0261560621000383?via%3Dihub), with John
 Beirne and Ulrich Volz.  
   * Published in ***Journal of International Money and Finance***, 2021, Vol.115, 102389.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/persistent-current-account-imbalances-good-or-bad-regional-global-growth)
+* [**“Bracing for the Typhoon: Climate Change and Sovereign Risk in Southeast Asia”**](https://onlinelibrary.wiley.com/doi/full/10.1002/sd.2199), with John
+Beirne and Ulrich Volz.  
+  * Published in ***Sustainable Development***, 2021.
+  * [***ADBI Working Paper Series***](https://www.adb.org/publications/bracing-typhoon-climate-change-sovereign-risk-southeast-asia)
 * [**"Can Financial Inclusion Be an Effective Mitigation Measure? Evidence from Panel Data Analysis of the Environmental Kuznets Curve"**](https://www.sciencedirect.com/science/article/pii/S1544612319314849?dgcid=rss_sd_all), with Yong Jun Baek.  
   * Published in ***Finance Research Letters***, 2020, Vol.37, 101725.
 * [**"Illustrating Spillover Effects of Infrastructure"**](https://www.adb.org/publications/high-speed-rail-services-asia), with Naoyuki Yoshino and Umid Abidhadjaev.  
