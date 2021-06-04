@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate at Asian Development Bank Institute, Japan.
+I am a Project Research at Department of Economics, University of Tokyo.
 
 My research interests include macroeconomics, macro-finance, household finance, and international finance.
 
 ## Contact
 
-* Email (ADBI): nrenzhi@adbi.org 
-* Email (Permanent): renzhinuobu@gmail.com
+* Email: renzhinuobu@gmail.com
 
 ## CV
 
