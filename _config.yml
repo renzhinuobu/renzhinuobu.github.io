@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nuobu Renzhi"
 title_separator          : "-"
 name                     : &name "Nuobu Renzhi"
-description              : &description "Research Associate, Asian Development Bank Institute"
+description              : &description "Project Researcher, University of Tokyo"
 url                      : https://renzhinuobu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "renzhinuobu/renzhinuobu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nuobu Renzhi"
   avatar           : "profile2.png"
-  bio              : "Research Associate, Asian Development Bank Institute"
+  bio              : "Project Researcher, University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"https://scholar.google.com/citations?user=nbTeSSMAAAAJ&hl=en"#
-  email            :  "nrenzhi@adbi.org"
+  email            :  "renzhinuobu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
