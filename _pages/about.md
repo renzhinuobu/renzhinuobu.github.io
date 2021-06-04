@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Project Research at Department of Economics, University of Tokyo.
+I am a Project Researcher at Department of Economics, University of Tokyo.
 
 My research interests include macroeconomics, macro-finance, household finance, and international finance.
 
