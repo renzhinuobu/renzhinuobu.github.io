@@ -11,7 +11,7 @@ author_profile: true
 ## Publications and Accepeted Papers
 
 * **“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**, with John Beirne and Ulrich Volz.  
-  * Published in ***The International Review of Economics & Finance***, forthcoming.
+  * Published in ***International Review of Economics & Finance***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/feeling-heat-climate-risks-cost-sovereign-borrowing)
 * **“Local Currency Bond Markets, Foreign Investor Participation and Capital Flow Volatility in Emerging Asia”**, with John
 Beirne and Ulrich Volz.  
