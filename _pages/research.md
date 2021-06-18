@@ -13,7 +13,7 @@ author_profile: true
 * **“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**, with John Beirne and Ulrich Volz.  
   * Published in ***International Review of Economics & Finance***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/feeling-heat-climate-risks-cost-sovereign-borrowing)
-* **“Local Currency Bond Markets, Foreign Investor Participation and Capital Flow Volatility in Emerging Asia”**, with John
+* [**“Local Currency Bond Markets, Foreign Investor Participation and Capital Flow Volatility in Emerging Asia”**](https://doi.org/10.1142/S0217590821410083), with John
 Beirne and Ulrich Volz.  
   * Published in ***Singapore Economic Review***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/local-currency-bond-markets-foreign-investor-capital-flow-volatility-asia)
