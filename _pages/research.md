@@ -33,7 +33,7 @@ Beirne and Ulrich Volz.
 ## Working Papers
 * **“Household Balance Sheets and Unconventional Monetary Policy Transmission”**
 * **“Housing Wealth, Mortgages, and Self Employment Transitions: Evidence from China”**
-* [**"Is there a role for house prices in the unconventional monetary policy transmission mechanism in Japan?”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3378055)
+* [**"Do house prices play a role in unconventional monetary policy transmission in Japan?”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3378055)
 * [**“Financial Market and Capital Flow Dynamics During the COVID-19 Pandemic”**](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic), with John Beirne, Eric Sugandi, and Ulrich Volz.  
   * ***ADBI Working Paper Series***, No.1158, June 2020.
 * [**"House Prices, Inflation, and Unconventional Monetary Policy”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174289)
