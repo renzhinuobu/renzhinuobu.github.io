@@ -23,7 +23,7 @@ Beirne and Ulrich Volz.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/persistent-current-account-imbalances-good-or-bad-regional-global-growth)
 * [**“Bracing for the Typhoon: Climate Change and Sovereign Risk in Southeast Asia”**](https://onlinelibrary.wiley.com/doi/full/10.1002/sd.2199), with John
 Beirne and Ulrich Volz.  
-  * Published in ***Sustainable Development***, 2021.
+  * Published in ***Sustainable Development***, 2021, Vol.29, pp.537-551.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/bracing-typhoon-climate-change-sovereign-risk-southeast-asia)
 * [**"Can Financial Inclusion Be an Effective Mitigation Measure? Evidence from Panel Data Analysis of the Environmental Kuznets Curve"**](https://www.sciencedirect.com/science/article/pii/S1544612319314849?dgcid=rss_sd_all), with Yong Jun Baek.  
   * Published in ***Finance Research Letters***, 2020, Vol.37, 101725.
