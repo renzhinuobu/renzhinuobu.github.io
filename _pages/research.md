@@ -12,7 +12,7 @@ author_profile: true
 
 * ** "COVID-19, Asset Markets and Capital Flows"**, with John Beirne and Ulrich Volz.  
   * Published in ***Pacific Economic Review***, forthcoming.
-
+ * [***ADBI Working Paper Series***](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic)
 * **“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**, with John Beirne and Ulrich Volz.  
   * Published in ***International Review of Economics & Finance***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/feeling-heat-climate-risks-cost-sovereign-borrowing)
@@ -37,8 +37,6 @@ Beirne and Ulrich Volz.
 * **“Household Balance Sheets and Unconventional Monetary Policy Transmission”**
 * **“Housing Wealth, Mortgages, and Self Employment Transitions: Evidence from China”**
 * [**"Do house prices play a role in unconventional monetary policy transmission in Japan?”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3378055)
-* [**“Financial Market and Capital Flow Dynamics During the COVID-19 Pandemic”**](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic), with John Beirne, Eric Sugandi, and Ulrich Volz.  
-  * ***ADBI Working Paper Series***, No.1158, June 2020.
 * [**"House Prices, Inflation, and Unconventional Monetary Policy”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174289)
 
 ## Book Chapters
