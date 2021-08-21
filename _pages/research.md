@@ -13,8 +13,8 @@ author_profile: true
 * [**"COVID-19, Asset Markets and Capital Flows"**](https://doi.org/10.1111/1468-0106.12368), with John Beirne and Ulrich Volz.  
   * Published in ***Pacific Economic Review***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic)
-* **“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**, with John Beirne and Ulrich Volz.  
-  * Published in ***International Review of Economics & Finance***, forthcoming.
+* [**“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**](https://www.sciencedirect.com/science/article/abs/pii/S1059056021001659), with John Beirne and Ulrich Volz.  
+  * Published in ***International Review of Economics & Finance***, 2021, Vol.76, pp.920-936.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/feeling-heat-climate-risks-cost-sovereign-borrowing)
 * [**“Local Currency Bond Markets, Foreign Investor Participation and Capital Flow Volatility in Emerging Asia”**](https://doi.org/10.1142/S0217590821410083), with John
 Beirne and Ulrich Volz.  
