@@ -11,7 +11,7 @@ author_profile: true
 ## Publications and Accepeted Papers
 
 * [**"COVID-19, Asset Markets and Capital Flows"**](https://doi.org/10.1111/1468-0106.12368), with John Beirne and Ulrich Volz.  
-  * Published in ***Pacific Economic Review***, forthcoming.
+  * Published in ***Pacific Economic Review***, 2021, V.26, pp.498-538.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic)
 * [**“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**](https://www.sciencedirect.com/science/article/abs/pii/S1059056021001659), with John Beirne and Ulrich Volz.  
   * Published in ***International Review of Economics & Finance***, 2021, Vol.76, pp.920-936.
