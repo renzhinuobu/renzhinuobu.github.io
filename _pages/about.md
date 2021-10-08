@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Project Researcher at Department of Economics, University of Tokyo.
+I am an Assistant Professor at School of Economics, Capital University of Economics and Business, China.
 
 My research interests include macroeconomics, macro-finance, household finance, and international finance.
 
