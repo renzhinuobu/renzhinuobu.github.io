@@ -36,7 +36,7 @@ Beirne and Ulrich Volz.
 ## Working Papers
 * **"When  the United States and the People’s Republic of China Sneeze: International Real and Financial Spillovers in Asia"**, with John
 Beirne and Ulrich Volz.  
-  * ***ADBI Working Paper Series***
+  * [***ADBI Working Paper Series***](https://www.adb.org/publications/when-united-states-prc-sneeze-financial-spillovers-asia)
 * **“Household Balance Sheets and Unconventional Monetary Policy Transmission”**
 * **“Housing Wealth, Mortgages, and Self Employment Transitions: Evidence from China”**
 * [**"Do house prices play a role in unconventional monetary policy transmission in Japan?”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3378055)
