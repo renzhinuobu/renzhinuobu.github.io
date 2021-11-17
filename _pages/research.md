@@ -34,6 +34,8 @@ Beirne and Ulrich Volz.
   * Published in ***The Asian Journal: Journal of Transport and Infrastructure***, 2019, Vol.1, Special Issue in High-Speed Rail Services in Asia, pp.11-17.
 
 ## Working Papers
+* **"The Effects of Natural Disasters on Price Stability in the Euro Area"**, with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz and Jana Wittich.
+  * [***DIW Discussion Papers  Series***](https://www.diw.de/de/diw_01.c.829793.de/publikationen/diskussionspapiere/2021_1981/the_effects_of_natural_disasters_on_price_stability_in_the_euro_area.html)
 * **"When  the United States and the People’s Republic of China Sneeze: International Real and Financial Spillovers in Asia"**, with John
 Beirne and Ulrich Volz.  
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/when-united-states-prc-sneeze-financial-spillovers-asia)
