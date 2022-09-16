@@ -13,7 +13,7 @@ author_profile: true
 Beirne and Ulrich Volz.  
   * Published in ***Open Economies Review***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/when-united-states-prc-sneeze-financial-spillovers-asia)
-* **"Do house prices play a role in unconventional monetary policy transmission in Japan?”**
+* [**"Do house prices play a role in unconventional monetary policy transmission in Japan?”**](https://doi.org/10.1016/j.asieco.2022.101547)
   * Published in ***Journal of Asian Economics***, forthcoming.
 * [**"COVID-19, Asset Markets and Capital Flows"**](https://doi.org/10.1111/1468-0106.12368), with John Beirne and Ulrich Volz.  
   * Published in ***Pacific Economic Review***, 2021, Vol.26, pp.498-538.
@@ -47,7 +47,7 @@ Beirne and Ulrich Volz.
   * [***SOAS Department of Economics Working Paper Series***](https://eprints.soas.ac.uk/36029/1/WP244.pdf)
 * **“Housing Wealth, Mortgages, and Self Employment Transitions: Evidence from China”**
 * [**"House Prices, Inflation, and Unconventional Monetary Policy”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174289)
-  * [***Master's Thesis, Graduate School of Economics, Unviversity of Tokyo***]
+  * [***Master's Thesis, Graduate School of Economics, University of Tokyo***]
 
 ## Book Chapters
 * [**“How High-Speed Rail Affects Local Land Prices: Evidence from Taipei, China”**](https://www.adb.org/publications/handbook-high-speed-rail-quality-life).  
