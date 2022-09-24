@@ -14,7 +14,7 @@ Beirne and Ulrich Volz.
   * Published in ***Open Economies Review***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/when-united-states-prc-sneeze-financial-spillovers-asia)
 * [**"Do house prices play a role in unconventional monetary policy transmission in Japan?”**](https://doi.org/10.1016/j.asieco.2022.101547)
-  * Published in ***Journal of Asian Economics***, forthcoming.
+  * Published in ***Journal of Asian Economics***, 2022, Vol.83, 101547.
 * [**"COVID-19, Asset Markets and Capital Flows"**](https://doi.org/10.1111/1468-0106.12368), with John Beirne and Ulrich Volz.  
   * Published in ***Pacific Economic Review***, 2021, Vol.26, pp.498-538.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic)
