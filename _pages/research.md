@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications and Accepeted Papers
+## Publications and Accepted Papers
 * **"When  the United States and the People’s Republic of China Sneeze: International Real and Financial Spillovers in Asia"**, with John
 Beirne and Ulrich Volz.  
   * Published in ***Open Economies Review***, forthcoming.
