@@ -42,6 +42,9 @@ Beirne and Ulrich Volz.
 * **"Global Shocks and Exchange Rate Pass-through in Emerging Asia"**, with John Beirne and Pradeep Panthi.
 * **“Household Net Saving Positions and Unconventional Monetary Policy Transmission: Evidence from Japan”**
 * **"Corporate Market Power and Monetary Policy Transmission in Asia"**, with John Beirne.
+* **"Nonbank Finance and Monetary Policy Transmission in Asia"**, with John
+Beirne and Ulrich Volz.  
+  * [***ADBI Working Paper Series***](https://www.adb.org/publications/nonbank-finance-and-monetary-policy-transmission-in-asia)
 * **"The Effects of Natural Disasters on Price Stability in the Euro Area"**, with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz and Jana Wittich.
   * [***DIW Discussion Paper Series***](https://www.diw.de/de/diw_01.c.829793.de/publikationen/diskussionspapiere/2021_1981/the_effects_of_natural_disasters_on_price_stability_in_the_euro_area.html)
   * [***SOAS Department of Economics Working Paper Series***](https://eprints.soas.ac.uk/36029/1/WP244.pdf)
