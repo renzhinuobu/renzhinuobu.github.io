@@ -9,11 +9,11 @@ author_profile: true
 {% include base_path %}
 
 ## Publications and Accepted Papers
-* **"Nonbank Finance and Monetary Policy Transmission in Asia"**, with John
+* [**"Nonbank Finance and Monetary Policy Transmission in Asia"**](https://doi.org/10.1080/1540496X.2022.2156279), with John
 Beirne and Ulrich Volz.  
   * Published in ***Emerging Markets Finance and Trade***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/nonbank-finance-and-monetary-policy-transmission-in-asia)
-* **"When  the United States and the People’s Republic of China Sneeze: International Real and Financial Spillovers in Asia"**, with John
+* [**"When  the United States and the People’s Republic of China Sneeze: International Real and Financial Spillovers in Asia"**](https://link.springer.com/article/10.1007/s11079-022-09695-1), with John
 Beirne and Ulrich Volz.  
   * Published in ***Open Economies Review***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/when-united-states-prc-sneeze-financial-spillovers-asia)
