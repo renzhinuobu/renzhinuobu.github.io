@@ -43,7 +43,7 @@ Beirne and Ulrich Volz.
   * Published in ***The Asian Journal: Journal of Transport and Infrastructure***, 2019, Vol.1, Special Issue in High-Speed Rail Services in Asia, pp.11-17.
 
 ## Working Papers
-* **"Global Shocks and Exchange Rate Pass-through in Emerging Asia"**, with John Beirne and Pradeep Panthi.
+* **"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**, with John Beirne and Pradeep Panthi.
 * **“Household Net Saving Positions and Unconventional Monetary Policy Transmission: Evidence from Japan”**
 * **"Corporate Market Power and Monetary Policy Transmission in Asia"**, with John Beirne.
 * * [***ADBI Working Paper Series***](https://www.adb.org/publications/corporate-market-power-and-monetary-policy-transmission-in-asia)
