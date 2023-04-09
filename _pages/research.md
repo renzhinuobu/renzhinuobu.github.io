@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 ## Publications and Accepted Papers
-* [**"Household Net Saving Positions and Unconventional Monetary Policy Transmission: Evidence from Japan"**]
+* **"Household Net Saving Positions and Unconventional Monetary Policy Transmission: Evidence from Japan"**
   * Published in ***Pacific-Basin Finance Journal***, forthcoming.
 * [**"Nonbank Finance and Monetary Policy Transmission in Asia"**](https://doi.org/10.1080/1540496X.2022.2156279), with John
 Beirne and Ulrich Volz.  
