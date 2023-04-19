@@ -13,7 +13,7 @@ author_profile: true
   * Published in ***Pacific-Basin Finance Journal***, 2023, Vol.79, 102032.
 * [**"Nonbank Finance and Monetary Policy Transmission in Asia"**](https://doi.org/10.1080/1540496X.2022.2156279), with John
 Beirne and Ulrich Volz.  
-  * Published in ***Emerging Markets Finance and Trade***, forthcoming.
+  * Published in ***Emerging Markets Finance and Trade***, 2023, Vol.59, pp.1976-1991.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/nonbank-finance-and-monetary-policy-transmission-in-asia)
 * [**"When the United States and the People’s Republic of China Sneeze: Monetary Policy Spillovers to Asian Economies"**](https://link.springer.com/article/10.1007/s11079-022-09695-1), with John
 Beirne and Ulrich Volz.  
