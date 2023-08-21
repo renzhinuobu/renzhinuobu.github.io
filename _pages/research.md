@@ -17,7 +17,7 @@ Beirne and Ulrich Volz.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/nonbank-finance-and-monetary-policy-transmission-in-asia)
 * [**"When the United States and the People’s Republic of China Sneeze: Monetary Policy Spillovers to Asian Economies"**](https://link.springer.com/article/10.1007/s11079-022-09695-1), with John
 Beirne and Ulrich Volz.  
-  * Published in ***Open Economies Review***, forthcoming.
+  * Published in ***Open Economies Review***, 2023, Vol.34, pp.519–540.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/when-united-states-prc-sneeze-financial-spillovers-asia)
 * [**"Do house prices play a role in unconventional monetary policy transmission in Japan?”**](https://doi.org/10.1016/j.asieco.2022.101547)
   * Published in ***Journal of Asian Economics***, 2022, Vol.83, 101547.
