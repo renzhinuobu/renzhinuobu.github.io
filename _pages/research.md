@@ -46,6 +46,7 @@ Beirne and Ulrich Volz.
 
 ## Working Papers
 * **"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**, with John Beirne and Pradeep Panthi.
+  * [***ADBI Working Paper Series***](https://www.adb.org/publications/exchange-rate-pass-through-in-emerging-asia-and-exposure-to-external-shocks)
 * **"Corporate Market Power and Monetary Policy Transmission in Asia"**, with John Beirne.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/corporate-market-power-and-monetary-policy-transmission-in-asia)
 * **"The Effects of Natural Disasters on Price Stability in the Euro Area"**, with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz and Jana Wittich.
