@@ -9,6 +9,9 @@ author_profile: true
 {% include base_path %}
 
 ## Publications and Accepted Papers
+* **"Corporate Market Power and Monetary Policy Transmission in Asia"**, with John Beirne.
+  * Published in ***Pacific-Basin Finance Journal***, forthcoming.
+  * [***ADBI Working Paper Series***](https://www.adb.org/publications/corporate-market-power-and-monetary-policy-transmission-in-asia)
 * [**"Household Net Saving Positions and Unconventional Monetary Policy Transmission: Evidence from Japan"**](https://doi.org/10.1016/j.pacfin.2023.102032)
   * Published in ***Pacific-Basin Finance Journal***, 2023, Vol.79, 102032.
 * [**"Nonbank Finance and Monetary Policy Transmission in Asia"**](https://doi.org/10.1080/1540496X.2022.2156279), with John
@@ -47,8 +50,6 @@ Beirne and Ulrich Volz.
 ## Working Papers
 * **"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**, with John Beirne and Pradeep Panthi.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/exchange-rate-pass-through-in-emerging-asia-and-exposure-to-external-shocks)
-* **"Corporate Market Power and Monetary Policy Transmission in Asia"**, with John Beirne.
-  * [***ADBI Working Paper Series***](https://www.adb.org/publications/corporate-market-power-and-monetary-policy-transmission-in-asia)
 * **"The Effects of Natural Disasters on Price Stability in the Euro Area"**, with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz and Jana Wittich.
   * [***DIW Discussion Paper Series***](https://www.diw.de/de/diw_01.c.829793.de/publikationen/diskussionspapiere/2021_1981/the_effects_of_natural_disasters_on_price_stability_in_the_euro_area.html)
   * [***SOAS Department of Economics Working Paper Series***](https://eprints.soas.ac.uk/36029/1/WP244.pdf)
