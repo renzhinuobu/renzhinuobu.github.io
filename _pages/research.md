@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 ## Publications and Accepted Papers
-* **"Corporate Market Power and Monetary Policy Transmission in Asia"**, with John Beirne.
+* [**"Corporate Market Power and Monetary Policy Transmission in Asia"**](https://doi.org/10.1016/j.pacfin.2023.102132), with John Beirne.
   * Published in ***Pacific-Basin Finance Journal***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/corporate-market-power-and-monetary-policy-transmission-in-asia)
 * [**"Household Net Saving Positions and Unconventional Monetary Policy Transmission: Evidence from Japan"**](https://doi.org/10.1016/j.pacfin.2023.102032)
