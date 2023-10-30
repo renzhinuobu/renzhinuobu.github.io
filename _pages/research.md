@@ -9,6 +9,10 @@ author_profile: true
 {% include base_path %}
 
 ## Publications and Accepted Papers
+* **"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**, with John Beirne and Pradeep Panthi.
+  * Published in ***Economic Analysis and Policy***, forthcoming.
+  * [***ADBI Working Paper Series***](https://www.adb.org/publications/exchange-rate-pass-through-in-emerging-asia-and-exposure-to-external-shocks)
+
 * [**"Corporate Market Power and Monetary Policy Transmission in Asia"**](https://doi.org/10.1016/j.pacfin.2023.102132), with John Beirne.
   * Published in ***Pacific-Basin Finance Journal***, 2023, Vol.82, 102132.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/corporate-market-power-and-monetary-policy-transmission-in-asia)
@@ -48,8 +52,6 @@ Beirne and Ulrich Volz.
   * Published in ***The Asian Journal: Journal of Transport and Infrastructure***, 2019, Vol.1, Special Issue in High-Speed Rail Services in Asia, pp.11-17.
 
 ## Working Papers
-* **"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**, with John Beirne and Pradeep Panthi.
-  * [***ADBI Working Paper Series***](https://www.adb.org/publications/exchange-rate-pass-through-in-emerging-asia-and-exposure-to-external-shocks)
 * **"The Effects of Natural Disasters on Price Stability in the Euro Area"**, with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz and Jana Wittich.
   * [***DIW Discussion Paper Series***](https://www.diw.de/de/diw_01.c.829793.de/publikationen/diskussionspapiere/2021_1981/the_effects_of_natural_disasters_on_price_stability_in_the_euro_area.html)
   * [***SOAS Department of Economics Working Paper Series***](https://eprints.soas.ac.uk/36029/1/WP244.pdf)
