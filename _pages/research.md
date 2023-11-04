@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 ## Publications and Accepted Papers
-* **"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**, with John Beirne and Pradeep Panthi.
+* [**"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**](https://doi.org/10.1016/j.eap.2023.10.033), with John Beirne and Pradeep Panthi.
   * Published in ***Economic Analysis and Policy***, forthcoming.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/exchange-rate-pass-through-in-emerging-asia-and-exposure-to-external-shocks)
 
