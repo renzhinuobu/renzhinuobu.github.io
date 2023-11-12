@@ -48,8 +48,6 @@ Beirne and Ulrich Volz.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/bracing-typhoon-climate-change-sovereign-risk-southeast-asia)
 * [**"Can Financial Inclusion Be an Effective Mitigation Measure? Evidence from Panel Data Analysis of the Environmental Kuznets Curve"**](https://www.sciencedirect.com/science/article/pii/S1544612319314849?dgcid=rss_sd_all), with Yong Jun Baek.  
   * Published in ***Finance Research Letters***, 2020, Vol.37, 101725.
-* [**"Illustrating Spillover Effects of Infrastructure"**](https://www.adb.org/publications/high-speed-rail-services-asia), with Naoyuki Yoshino and Umid Abidhadjaev.  
-  * Published in ***The Asian Journal: Journal of Transport and Infrastructure***, 2019, Vol.1, Special Issue in High-Speed Rail Services in Asia, pp.11-17.
 
 ## Working Papers
 * **"The Effects of Natural Disasters on Price Stability in the Euro Area"**, with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz and Jana Wittich.
