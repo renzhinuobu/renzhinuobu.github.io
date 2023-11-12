@@ -50,6 +50,8 @@ Beirne and Ulrich Volz.
   * Published in ***Finance Research Letters***, 2020, Vol.37, 101725.
 
 ## Working Papers
+* **"The Nexus of Peer-to-Peer Lending and Monetary Policy Transmission: Evidence from China"**, with John Beirne.
+* **"Global Shocks and Monetary Policy Transmission in Emerging Markets"**, with John Beirne.
 * **"The Effects of Natural Disasters on Price Stability in the Euro Area"**, with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz and Jana Wittich.
   * [***DIW Discussion Paper Series***](https://www.diw.de/de/diw_01.c.829793.de/publikationen/diskussionspapiere/2021_1981/the_effects_of_natural_disasters_on_price_stability_in_the_euro_area.html)
   * [***SOAS Department of Economics Working Paper Series***](https://eprints.soas.ac.uk/36029/1/WP244.pdf)
