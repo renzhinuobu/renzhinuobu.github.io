@@ -9,9 +9,15 @@ author_profile: true
 {% include base_path %}
 
 ## Publications and Accepted Papers
+
 * [**"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**](https://doi.org/10.1016/j.eap.2023.10.033), with John Beirne and Pradeep Panthi.
   * Published in ***Economic Analysis and Policy***, 2024, Vol.81, pp.1608-1624.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/exchange-rate-pass-through-in-emerging-asia-and-exposure-to-external-shocks)
+
+* [**“Local Currency Bond Markets, Foreign Investor Participation and Capital Flow Volatility in Emerging Asia”**](https://doi.org/10.1142/S0217590821410083), with John
+Beirne and Ulrich Volz.  
+  * Published in ***Singapore Economic Review***, 2024, Vol.69, pp.517-541.
+  * [***ADBI Working Paper Series***](https://www.adb.org/publications/local-currency-bond-markets-foreign-investor-capital-flow-volatility-asia)
 
 * [**"Corporate Market Power and Monetary Policy Transmission in Asia"**](https://doi.org/10.1016/j.pacfin.2023.102132), with John Beirne.
   * Published in ***Pacific-Basin Finance Journal***, 2023, Vol.82, 102132.
@@ -34,10 +40,6 @@ Beirne and Ulrich Volz.
 * [**“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**](https://www.sciencedirect.com/science/article/abs/pii/S1059056021001659), with John Beirne and Ulrich Volz.  
   * Published in ***International Review of Economics & Finance***, 2021, Vol.76, pp.920-936.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/feeling-heat-climate-risks-cost-sovereign-borrowing)
-* [**“Local Currency Bond Markets, Foreign Investor Participation and Capital Flow Volatility in Emerging Asia”**](https://doi.org/10.1142/S0217590821410083), with John
-Beirne and Ulrich Volz.  
-  * Published in ***Singapore Economic Review***, forthcoming.
-  * [***ADBI Working Paper Series***](https://www.adb.org/publications/local-currency-bond-markets-foreign-investor-capital-flow-volatility-asia)
 * [**"Persistent Current Account Imbalances: Are they Good or Bad for Regional and Global Growth?"**](https://www.sciencedirect.com/science/article/pii/S0261560621000383?via%3Dihub), with John
 Beirne and Ulrich Volz.  
   * Published in ***Journal of International Money and Finance***, 2021, Vol.115, 102389.
