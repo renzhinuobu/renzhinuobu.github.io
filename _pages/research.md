@@ -12,7 +12,7 @@ author_profile: true
 
 * [**"Debt shocks and the dynamics of output and inflation in emerging economies"**](https://doi.org/10.1016/j.jimonfin.2024.103167), with John Beirne.
   * Published in ***Journal of International Money and Finance***, 2024, Vol.148, 103167.
-  * [***ADB Economic Working Paper Series***](https://www.adb.org/publications/debt-shocks-dynamics-output-inflation)
+  * [***ADB Economics Working Paper Series***](https://www.adb.org/publications/debt-shocks-dynamics-output-inflation)
 
 * [**"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**](https://doi.org/10.1016/j.eap.2023.10.033), with John Beirne and Pradeep Panthi.
   * Published in ***Economic Analysis and Policy***, 2024, Vol.81, pp.1608-1624.
