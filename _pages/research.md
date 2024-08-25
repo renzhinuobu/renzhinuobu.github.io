@@ -65,7 +65,7 @@ Beirne and Ulrich Volz.
 * **"Global Shocks and Monetary Policy Transmission in Emerging Markets"**, with John Beirne.
 * **“Housing Wealth, Mortgages, and Self Employment Transitions: Evidence from China”**
 * [**"House Prices, Inflation, and Unconventional Monetary Policy”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174289)
- * [***Master's Thesis, Graduate School of Economics, University of Tokyo***]
+  * [***Master's Thesis, Graduate School of Economics, University of Tokyo***]
 
 ## Book Chapters
 * [**“How High-Speed Rail Affects Local Land Prices: Evidence from Taipei, China”**](https://www.adb.org/publications/handbook-high-speed-rail-quality-life).  
