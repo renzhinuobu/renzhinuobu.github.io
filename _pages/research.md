@@ -47,7 +47,7 @@ Beirne and Ulrich Volz.
   * Published in ***Pacific Economic Review***, 2021, Vol.26, pp.498-538.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic)
 * [**“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**](https://www.sciencedirect.com/science/article/abs/pii/S1059056021001659), with John Beirne and Ulrich Volz.  
-  * Published in ***International Review of Economics & Finance***, 2021, Vol.76, pp.920-936.
+  * Published in ***International Review of Economics and Finance***, 2021, Vol.76, pp.920-936.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/feeling-heat-climate-risks-cost-sovereign-borrowing)
 * [**"Persistent Current Account Imbalances: Are they Good or Bad for Regional and Global Growth?"**](https://www.sciencedirect.com/science/article/pii/S0261560621000383?via%3Dihub), with John
 Beirne and Ulrich Volz.  
