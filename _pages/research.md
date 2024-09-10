@@ -11,7 +11,7 @@ author_profile: true
 ## Publications and Accepted Papers
 
 * [**"Weather-related Disasters and Inflation in the Euro Area"**](https://doi.org/10.1016/j.jbankfin.2024.107298), with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz, and Jana Wittich.
-  * Published in ***Journal of Banking and Finance***, forthcoming.
+  * Published in ***Journal of Banking and Finance***, 2024, Vol.169, 107298.
   * [***DIW Discussion Paper Series***](https://www.diw.de/de/diw_01.c.829793.de/publikationen/diskussionspapiere/2021_1981/the_effects_of_natural_disasters_on_price_stability_in_the_euro_area.html)
   * [***SOAS Department of Economics Working Paper Series***](https://eprints.soas.ac.uk/36029/1/WP244.pdf)
 
