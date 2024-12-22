@@ -66,7 +66,6 @@ Beirne and Ulrich Volz.
 
 ## Working Papers
 * **"The Nexus of Peer-to-Peer Lending and Monetary Policy Transmission: Evidence from China"**, with John Beirne.
-* **"Global Shocks and Monetary Policy Transmission in Emerging Markets"**, with John Beirne.
 * **“Housing Wealth, Mortgages, and Self Employment Transitions: Evidence from China”**
 * [**"House Prices, Inflation, and Unconventional Monetary Policy”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174289)
   * [***Master's Thesis, Graduate School of Economics, University of Tokyo***]
