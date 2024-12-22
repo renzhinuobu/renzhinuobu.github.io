@@ -10,6 +10,10 @@ author_profile: true
 
 ## Publications and Accepted Papers
 
+* [**"Global Shocks and Monetary Policy Transmission in Emerging Markets"**], with John Beirne.
+  * Published in ***Emerging Markets Finance and Trade***, forthcoming.
+  * [***ADB Economics Working Paper Series***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825765#)
+
 * [**"Weather-related Disasters and Inflation in the Euro Area"**](https://doi.org/10.1016/j.jbankfin.2024.107298), with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz, and Jana Wittich.
   * Published in ***Journal of Banking and Finance***, 2024, Vol.169, 107298.
   * [***DIW Discussion Paper Series***](https://www.diw.de/de/diw_01.c.829793.de/publikationen/diskussionspapiere/2021_1981/the_effects_of_natural_disasters_on_price_stability_in_the_euro_area.html)
@@ -17,7 +21,7 @@ author_profile: true
 
 * [**"Debt shocks and the dynamics of output and inflation in emerging economies"**](https://doi.org/10.1016/j.jimonfin.2024.103167), with John Beirne.
   * Published in ***Journal of International Money and Finance***, 2024, Vol.148, 103167.
-  * [***ADB Economics Working Paper Series***](https://www.adb.org/publications/debt-shocks-dynamics-output-inflation)
+  * [***ADB Economics Working Paper Series***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929322)
 
 * [**"Exchange Rate Pass-through in Emerging Asia and Exposure to External Shocks"**](https://doi.org/10.1016/j.eap.2023.10.033), with John Beirne and Pradeep Panthi.
   * Published in ***Economic Analysis and Policy***, 2024, Vol.81, pp.1608-1624.
