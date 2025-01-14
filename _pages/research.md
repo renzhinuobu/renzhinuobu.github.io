@@ -11,7 +11,7 @@ author_profile: true
 ## Publications and Accepted Papers
 
 * [**"Global Shocks and Monetary Policy Transmission in Emerging Markets"**](https://doi.org/10.1080/1540496X.2024.2443621), with John Beirne.
-  * Published in ***Emerging Markets Finance and Trade***, forthcoming.
+  * Published in ***Emerging Markets Finance and Trade***, 2025, Vol.61, pp.786-803.
   * [***ADB Economics Working Paper Series***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825765#)
 
 * [**"Weather-related Disasters and Inflation in the Euro Area"**](https://doi.org/10.1016/j.jbankfin.2024.107298), with John Beirne, Yannis Dafermos, Alexander Kriwoluzky, Ulrich Volz, and Jana Wittich.
