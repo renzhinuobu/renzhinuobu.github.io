@@ -10,7 +10,7 @@ author_profile: true
 
 ## Publications and Accepted Papers
 
-* [**"The Nexus of Peer-to-Peer Lending and Monetary Policy Transmission: Evidence from the People’s Republic of China"**](), with John Beirne.
+* **"The Nexus of Peer-to-Peer Lending and Monetary Policy Transmission: Evidence from the People’s Republic of China"**, with John Beirne.
   * Published in ***Pacific-Basin Finance Journal***, forthcoming.
   * [***ADB Economics Working Paper Series***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5009621)
 
@@ -69,7 +69,6 @@ Beirne and Ulrich Volz.
   * Published in ***Finance Research Letters***, 2020, Vol.37, 101725.
 
 ## Working Papers
-* **"The Nexus of Peer-to-Peer Lending and Monetary Policy Transmission: Evidence from China"**, with John Beirne.
 * **“Housing Wealth, Mortgages, and Self Employment Transitions: Evidence from China”**
 * [**"House Prices, Inflation, and Unconventional Monetary Policy”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174289)
   * [***Master's Thesis, Graduate School of Economics, University of Tokyo***]
