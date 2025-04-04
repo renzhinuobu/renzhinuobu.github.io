@@ -23,7 +23,7 @@ author_profile: true
   * [***DIW Discussion Paper Series***](https://www.diw.de/de/diw_01.c.829793.de/publikationen/diskussionspapiere/2021_1981/the_effects_of_natural_disasters_on_price_stability_in_the_euro_area.html)
   * [***SOAS Department of Economics Working Paper Series***](https://eprints.soas.ac.uk/36029/1/WP244.pdf)
 
-* [**"Debt shocks and the dynamics of output and inflation in emerging economies"**](https://doi.org/10.1016/j.jimonfin.2024.103167), with John Beirne.
+* [**"Debt Shocks and the Dynamics of Output and Inflation in Emerging Economies"**](https://doi.org/10.1016/j.jimonfin.2024.103167), with John Beirne.
   * Published in ***Journal of International Money and Finance***, 2024, Vol.148, 103167.
   * [***ADB Economics Working Paper Series***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929322)
 
@@ -39,32 +39,39 @@ Beirne and Ulrich Volz.
 * [**"Corporate Market Power and Monetary Policy Transmission in Asia"**](https://doi.org/10.1016/j.pacfin.2023.102132), with John Beirne.
   * Published in ***Pacific-Basin Finance Journal***, 2023, Vol.82, 102132.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/corporate-market-power-and-monetary-policy-transmission-in-asia)
+    
 * [**"Household Net Saving Positions and Unconventional Monetary Policy Transmission: Evidence from Japan"**](https://doi.org/10.1016/j.pacfin.2023.102032)
   * Published in ***Pacific-Basin Finance Journal***, 2023, Vol.79, 102032.
+    
 * [**"Nonbank Finance and Monetary Policy Transmission in Asia"**](https://doi.org/10.1080/1540496X.2022.2156279), with John
 Beirne and Ulrich Volz.  
   * Published in ***Emerging Markets Finance and Trade***, 2023, Vol.59, pp.1976-1991.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/nonbank-finance-and-monetary-policy-transmission-in-asia)
-* [**"When the United States and the People’s Republic of China Sneeze: Monetary Policy Spillovers to Asian Economies"**](https://link.springer.com/article/10.1007/s11079-022-09695-1), with John
-Beirne and Ulrich Volz.  
+    
+* [**"When the United States and the People’s Republic of China Sneeze: Monetary Policy Spillovers to Asian Economies"**](https://link.springer.com/article/10.1007/s11079-022-09695-1), with John Beirne and Ulrich Volz.  
   * Published in ***Open Economies Review***, 2023, Vol.34, pp.519–540.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/when-united-states-prc-sneeze-financial-spillovers-asia)
+    
 * [**"Do house prices play a role in unconventional monetary policy transmission in Japan?”**](https://doi.org/10.1016/j.asieco.2022.101547)
   * Published in ***Journal of Asian Economics***, 2022, Vol.83, 101547.
+    
 * [**"COVID-19, Asset Markets and Capital Flows"**](https://doi.org/10.1111/1468-0106.12368), with John Beirne, Eric Sugandi, and Ulrich Volz.  
   * Published in ***Pacific Economic Review***, 2021, Vol.26, pp.498-538.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/financial-market-capital-flow-dynamics-during-covid-19-pandemic)
+    
 * [**“Feeling the Heat: Climate Risks and the Cost of Sovereign Borrowing”**](https://www.sciencedirect.com/science/article/abs/pii/S1059056021001659), with John Beirne and Ulrich Volz.  
   * Published in ***International Review of Economics and Finance***, 2021, Vol.76, pp.920-936.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/feeling-heat-climate-risks-cost-sovereign-borrowing)
-* [**"Persistent Current Account Imbalances: Are they Good or Bad for Regional and Global Growth?"**](https://www.sciencedirect.com/science/article/pii/S0261560621000383?via%3Dihub), with John
-Beirne and Ulrich Volz.  
+    
+* [**"Persistent Current Account Imbalances: Are they Good or Bad for Regional and Global Growth?"**](https://www.sciencedirect.com/science/article/pii/S0261560621000383?via%3Dihub), with John Beirne and Ulrich Volz.  
   * Published in ***Journal of International Money and Finance***, 2021, Vol.115, 102389.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/persistent-current-account-imbalances-good-or-bad-regional-global-growth)
+    
 * [**“Bracing for the Typhoon: Climate Change and Sovereign Risk in Southeast Asia”**](https://onlinelibrary.wiley.com/doi/full/10.1002/sd.2199), with John
 Beirne and Ulrich Volz.  
   * Published in ***Sustainable Development***, 2021, Vol.29, pp.537-551.
   * [***ADBI Working Paper Series***](https://www.adb.org/publications/bracing-typhoon-climate-change-sovereign-risk-southeast-asia)
+    
 * [**"Can Financial Inclusion Be an Effective Mitigation Measure? Evidence from Panel Data Analysis of the Environmental Kuznets Curve"**](https://www.sciencedirect.com/science/article/pii/S1544612319314849?dgcid=rss_sd_all), with Yong Jun Baek.  
   * Published in ***Finance Research Letters***, 2020, Vol.37, 101725.
 
