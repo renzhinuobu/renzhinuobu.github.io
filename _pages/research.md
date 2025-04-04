@@ -10,7 +10,7 @@ author_profile: true
 
 ## Publications and Accepted Papers
 
-* [**"The nexus of peer-to-peer lending and monetary policy transmission: Evidence from the People’s Republic of China"**](https://doi.org/10.1016/j.pacfin.2025.102770), with John Beirne.
+* [**"The Nexus of Peer-to-Peer Lending and Monetary Policy Transmission: Evidence from the People’s Republic of China"**](https://doi.org/10.1016/j.pacfin.2025.102770), with John Beirne.
   * Published in ***Pacific-Basin Finance Journal***, 2025, Vol.92,102770.
   * [***ADB Economics Working Paper Series***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5009621)
 
