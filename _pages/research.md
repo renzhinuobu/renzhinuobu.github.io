@@ -11,7 +11,7 @@ author_profile: true
 ## Publications and Accepted Papers
 
 * [**"The Nexus of Peer-to-Peer Lending and Monetary Policy Transmission: Evidence from the People’s Republic of China"**](https://doi.org/10.1016/j.pacfin.2025.102770), with John Beirne.
-  * Published in ***Pacific-Basin Finance Journal***, 2025, Vol.92,102770.
+  * Published in ***Pacific-Basin Finance Journal***, 2025, Vol.91,102770.
   * [***ADB Economics Working Paper Series***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5009621)
 
 * [**"Global Shocks and Monetary Policy Transmission in Emerging Markets"**](https://doi.org/10.1080/1540496X.2024.2443621), with John Beirne.
