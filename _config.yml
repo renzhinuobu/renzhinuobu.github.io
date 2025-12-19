@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Nuobu Renzhi"
   avatar           : "profile2.png"
-  bio              : "Assitant Professor, Capital University of Economics and Business"
+  bio              : "Associate Professor of Economics"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Capital University of Economics and Business, China"
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  #"https://scholar.google.com/citations?user=nbTeSSMAAAAJ&hl=en"#
+  googlescholar    :  "https://scholar.google.co.jp/citations?user=nbTeSSMAAAAJ&hl=zh-CN"
   email            :  "renzhinuobu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
