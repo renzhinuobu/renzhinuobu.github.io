@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Nuobu Renzhi is an Associate Professor of Economics and Assistant Dean at the School of Economics, Capital University of Economics and Business (CUEB), China. His research interests include applied macroeconomics, macro-finance, and monetary economics. Before joining CUEB, he worked as a Research Associate at the Asian Development Bank Institute (ADBI) and as a Project Researcher at the Graduate School of Economics, the University of Tokyo. 
+Nuobu Renzhi is an Assistant Professor of Economics and Assistant Dean at the School of Economics, Capital University of Economics and Business (CUEB), China. His research interests include applied macroeconomics, macro-finance, and monetary economics. Before joining CUEB, he worked as a Research Associate at the Asian Development Bank Institute (ADBI) and as a Project Researcher at the Graduate School of Economics, the University of Tokyo. 
 ## Contact
 
 * Email: renzhinuobu@gmail.com
