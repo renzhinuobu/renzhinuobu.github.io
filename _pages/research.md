@@ -11,7 +11,7 @@ author_profile: true
 ## Publications and Accepted Papers
 
 * [**"Oil price pass-through to inflation in emerging Asia”**](https://doi.org/10.1016/j.asieco.2025.102103), with John Beirne.
-  * Published in ***Journal of Asian Economics***, 2026, Vol.102, 102103.
+  * Published in ***Journal of Asian Economics***, 2026, Vol.103, 102103.
 
 * [**"Geopolitical risk, capital flow volatility, and asset market spillovers"**](https://doi.org/10.1016/j.pacfin.2025.102985), with John Beirne.
   * Published in ***Pacific-Basin Finance Journal***, 2026, Vol.95, 102985.
